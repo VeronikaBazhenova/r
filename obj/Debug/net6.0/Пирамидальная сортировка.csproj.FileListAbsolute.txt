@@ -1,0 +1,15 @@
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\bin\Debug\net6.0\Пирамидальная сортировка.exe
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\bin\Debug\net6.0\Пирамидальная сортировка.deps.json
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\bin\Debug\net6.0\Пирамидальная сортировка.runtimeconfig.json
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\bin\Debug\net6.0\Пирамидальная сортировка.dll
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\bin\Debug\net6.0\Пирамидальная сортировка.pdb
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.csproj.AssemblyReference.cache
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.AssemblyInfoInputs.cache
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.AssemblyInfo.cs
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.dll
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\refint\Пирамидальная сортировка.dll
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.pdb
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\Пирамидальная сортировка.genruntimeconfig.cache
+C:\Users\Мвидео\Desktop\GB\Bootkemp\Программист\Пирамидальная сортировка\obj\Debug\net6.0\ref\Пирамидальная сортировка.dll
